@@ -1,0 +1,23 @@
+#container{
+    display: grid;
+    height: 960px;
+    width: 960px;
+    background-color: aliceblue;
+    
+}
+
+.divi{
+    border: none;
+}
+
+.touched{
+    background-color: blue;
+}
+
+button{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    margin: 0 395px;
+}
+
